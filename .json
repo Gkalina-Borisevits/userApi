@@ -1,0 +1,60 @@
+[{
+"name":"Aries",
+"date":"MAR 21 - APR 19",
+"img":"https://i.pinimg.com/236x/0d/cc/96/0dcc964dfd0c40ed94933beeb3cf28dd.jpg"
+},
+{
+"name":"Taurus",
+"date":"APR 20 - MAY 20",
+"img":"https://i.pinimg.com/564x/9e/70/a1/9e70a13deb91f5d95981f2679cb27b89.jpg"
+},
+{
+"name":"Gemini",
+"date":"MAY 21 - JUNE 20",
+"img":"https://i.pinimg.com/564x/5b/b7/4d/5bb74d0e922e2f5814608b8399590f31.jpg"
+},
+{
+"name":"Cancer",
+"date":"JUNE 21 - JULY 22",
+"img":"https://i.pinimg.com/236x/00/d6/7e/00d67eed59295d93d66084fefcd32a2a.jpg"
+},
+{
+"name":"Leo",
+"date":"JULY 23 - AUG 22",
+"img":"https://i.pinimg.com/236x/6b/5e/be/6b5ebe153667d20199a4177fb24be347.jpg"
+},
+{
+"name":"Virgo",
+"date":"AUG 23 - SEPT 22",
+"img":"https://i.pinimg.com/236x/e3/17/0f/e3170fb5fc33b2c7696fa00006f4d9da.jpg"
+},
+{
+"name":"Libra",
+"date":"SEPT 23 - OCT 22",
+"img":"https://i.pinimg.com/236x/63/87/75/6387757c41bb08d57fe06362307d7004.jpg"
+},
+{
+"name":"Scorpio",
+"date":"OCT 23 - NOV 21",
+"img":"https://i.pinimg.com/564x/7e/ce/47/7ece47b8c18af89038ec7f7bfaf941ca.jpg"
+},
+{
+"name":"Sagittarius",
+"date":"NOV 22 - DEC 21",
+"img":"https://i.pinimg.com/564x/07/d6/79/07d67903b518b326718ffd5b99cd42e6.jpg"
+},
+{
+"name":"Capricorn",
+"date":"DEC 22 - JAN 19",
+"img":"https://i.pinimg.com/564x/84/69/34/846934792f2de0ef05827857a6232118.jpg"
+},
+{
+"name":"Aquarius",
+"date":"JAN 20 - FEB 18",
+"img":"https://i.pinimg.com/236x/20/bf/2a/20bf2a3653e1deb86edf63e5e8329f25.jpg"
+},
+{
+"name":"Pisces",
+"date":"FEB 19 - MARCH 20",
+"img":"https://i.pinimg.com/564x/d6/ef/5d/d6ef5d05bfd847506fede766d4b58777.jpg"
+},]
